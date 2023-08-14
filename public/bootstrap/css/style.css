@@ -1,0 +1,14 @@
+/* :root{
+    --offcanvas-width:100px;
+}
+
+.sidebar-nav{
+    width: var(--offcanvas-width);
+}
+
+@media (min-width: 992px) {
+    .sidebar-nav{
+        transform: none;
+        visibility: visible !important;
+    }
+} */
